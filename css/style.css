@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-image: url(/images/angel-jimenez.jpg);
+    height: 667px;
+    background-size: cover;
+}
+
+.tittle {
+    color: white;
+    text-align: center;
+    font-size: 110px;
+    margin-top: 250px;
+}
+
+.sec1 {
+    height: 667px;
+}
+
+.sec1 img {
+    width: 400px;
+    float: right;
+    margin: 120px 150px 0px 0px;
+}
+
+.sec1 h2 {
+    font-size: 45px;
+}
+
+.sec1 input {
+    border: 0;
+    padding: 15px 60px 15px 60px;
+    border-radius: 25px;
+    background-color: rgb(255, 74, 74);
+    color: white;
+    margin-top: 10px;
+}
+
+.text1 {
+    width: 30%;
+    margin: 200px 0px 0px 160px;
+    float: left;
+}
+
+.sec2 {
+    height: 667px;
+}
+
+.sec2 img {
+    width: 400px;
+    float: left;
+    margin: 80px 0px 0px 150px;
+}
+
+.text2 {
+    width: 35%;
+    float: right;
+    margin: 200px 160px 0px 0px;
+}
+
+.sec2 h2 {
+    font-size: 45px;
+}
+
+.sec2 input {
+    border: 0;
+    padding: 15px 60px 15px 60px;
+    border-radius: 25px;
+    background-color: rgb(255, 74, 74);
+    color: white;
+    margin-top: 10px;
+}
+
+.sec3 {
+    height: 600px;
+    background-image: url(/images/john-raptis3.png);
+    background-position: -130px;
+}
+
+.sec3 h2 {
+    font-size: 50px;
+}
+
+.sec3 input {
+    border: 0;
+    padding: 15px 60px 15px 60px;
+    border-radius: 25px;
+    background-color: rgb(255, 74, 74);
+    color: white;
+    margin-top: 35PX
+}
+
+.text3 {
+    width: 35%;
+    color: white;
+    float: right;
+    margin: 200px 90px 0px 0px;
+}
+
+.pie {
+    height: 350px;
+    background:linear-gradient(rgb(255, 74, 74),rgb(255, 47, 47));
+    padding: 90px 0px 0px 120px;
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    font-size: 11px;
+}
+
+th,td {
+    padding: 70px 190px 0px 0px;
+}
+
+.pie {
+    color: white;
+    padding: 30px 50px 20px 180px;
+    font-size: 15px;
+}
+
+
+.linea{
+    border-bottom: 1px solid white;
+    margin-top: 15px;
+    margin-right: 170px;
+}
+
+.correo {
+    float: right;
+    margin: 35px 130px 0px 0px;
+}
+
+.copy {
+    float: left;
+    margin: 35px 0px 0px 8px;
+}
+
+span{
+    background: linear-gradient(65deg, rgb(255, 0, 0) 17%,rgb(59, 35, 180) 64%);
+    -webkit-background-clip: text;
+    color: transparent;
+
+
+}
